@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "es": "amor",
+    "pt": "amor",
+    "ar": "حب",
+    "category": "sustantivo",
+    "details": "Forma singular, se refiere al afecto o cariño.",
+    "pronunciation": "ḥubb",
+    "root": "ح ب ب",
+    "relatedWords": ["محبة", "حبوب", "حبيب"]
+  },
+  {
+    "id": 2,
+    "es": "casa",
+    "pt": "casa",
+    "ar": "بيت",
+    "category": "sustantivo",
+    "details": "Se refiere a una vivienda o lugar para habitar.",
+    "pronunciation": "bayt",
+    "root": "ب ي ت",
+    "relatedWords": ["بيوت", "بيتية"]
+  },
+  {
+    "id": 3,
+    "es": "grande",
+    "pt": "grande",
+    "ar": "كبير",
+    "category": "adjetivo",
+    "details": "Describe tamaño o importancia.",
+    "pronunciation": "kabīr",
+    "root": "ك ب ر",
+    "relatedWords": ["أكبر", "كبيرة"]
+  }
+]
