@@ -31,5 +31,82 @@
     "pronunciation": "kabīr",
     "root": "ك ب ر",
     "relatedWords": ["أكبر", "كبيرة"]
+  },
+  {
+    "id": 4,
+    "es": "luz",
+    "pt": "luz",
+    "ar": "نور",
+    "category": "sustantivo",
+    "details": "Algo que ilumina o alumbra.",
+    "pronunciation": "nūr",
+    "root": "ن و ر",
+    "relatedWords": ["أنوار", "نورية"]
+  },
+  {
+    "id": 5,
+    "es": "cielo",
+    "pt": "céu",
+    "ar": "سماء",
+    "category": "sustantivo",
+    "details": "Parte superior del espacio visible.",
+    "pronunciation": "samāʾ",
+    "root": "س م و",
+    "relatedWords": ["سماوات", "سماءية"]
+  },
+  {
+    "id": 6,
+    "es": "felicidad",
+    "pt": "felicidade",
+    "ar": "سعادة",
+    "category": "sustantivo",
+    "details": "Estado de alegría y satisfacción.",
+    "pronunciation": "saʿāda",
+    "root": "س ع د",
+    "relatedWords": ["سعيد", "مسعود"]
+  },
+  {
+    "id": 7,
+    "es": "camino",
+    "pt": "caminho",
+    "ar": "طريق",
+    "category": "sustantivo",
+    "details": "Ruta o vía para transitar.",
+    "pronunciation": "ṭarīq",
+    "root": "ط ر ق",
+    "relatedWords": ["طرقات", "طريقي"]
+  },
+  {
+    "id": 8,
+    "es": "agua",
+    "pt": "água",
+    "ar": "ماء",
+    "category": "sustantivo",
+    "details": "Sustancia líquida esencial para la vida.",
+    "pronunciation": "māʾ",
+    "root": "م ي ه",
+    "relatedWords": ["مياه", "مائي"]
+  },
+  {
+    "id": 9,
+    "es": "libro",
+    "pt": "livro",
+    "ar": "كتاب",
+    "category": "sustantivo",
+    "details": "Conjunto de hojas encuadernadas.",
+    "pronunciation": "kitāb",
+    "root": "ك ت ب",
+    "relatedWords": ["كتب", "كاتب"]
+  },
+  {
+    "id": 10,
+    "es": "sol",
+    "pt": "sol",
+    "ar": "شمس",
+    "category": "sustantivo",
+    "details": "Estrella que ilumina el sistema solar.",
+    "pronunciation": "shams",
+    "root": "ش م س",
+    "relatedWords": ["شموس", "شمسية"]
   }
 ]
